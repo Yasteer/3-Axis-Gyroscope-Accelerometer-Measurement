@@ -2,7 +2,7 @@
 
 This project demonstrates how to interface an MPU6050 6-axis motion sensor (3-axis accelerometer + 3-axis gyroscope) with an Arduino using I²C communication. The sensor data is read, decoded, and printed to the Serial Monitor in a structured, human-readable format.
 
-[![MPU6050 Simulation in Action](I2C_Sensor_Demo.gif)]
+![MPU6050 Simulation in Action](I2C_Sensor_Demo.gif)
 
 ---
 
