@@ -102,4 +102,9 @@ Special thanks to the creators of the [MPU6050 datasheet](https://invensense.tdk
 
 ---
 
-📎 **Repo Link:** [https://github.com/Yasteer/3-Axis-Gyroscope-Accelerometer-Measurement](https://github.com/Yasteer/3-Axis-Gyroscope-Accelerometer-Measurement)
+## 👤 Author
+
+> Created by Yasteer Sewpersad
+
+> Electronic Engineering Portfolio of Evidence
+
